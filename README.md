@@ -1,6 +1,6 @@
 <!-- PREMIUM BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F7FA,50:C3CFE2,100:E2EBF0&height=170&section=header&text=Rahul%20Rojasara&fontSize=38&fontColor=2D2D2D&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Rahul%20Rojasara&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <br/>
@@ -70,5 +70,5 @@
 
 <!-- PREMIUM FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F7FA,50:C3CFE2,100:E2EBF0&height=90&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
 </div>
