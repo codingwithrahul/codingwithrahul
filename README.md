@@ -3,24 +3,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Rahul%20Rojasara&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<br/>
-
-<!-- SOCIAL BADGES (MINIMAL / APPLE STYLE) -->
 <div align="center">
   <a href="https://www.linkedin.com/in/rahulrojasara">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 
   <a href="https://github.com/codingwithrahul">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 
   <a href="https://x.com/rahulhrojasara">
-    <img src="https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
 
   <a href="https://www.instagram.com/rahul.rojasara9">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 </div>
 
