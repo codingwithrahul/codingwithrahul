@@ -49,12 +49,6 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=codingwithrahul.codingwithrahul" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codingwithrahul&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
   <img src="https://github-profile-trophy.vercel.app?username=codingwithrahul&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
 </div>
