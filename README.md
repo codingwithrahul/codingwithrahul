@@ -3,21 +3,21 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
+  <a href="https://www.linkedin.com/in/rahulrojasara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+
+  <a href="https://github.com/codingwithrahul" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+
+  <a href="https://x.com/rahulhrojasara" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+
+  <a href="https://www.instagram.com/rahul.rojasara9" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25" />
+  </a>
 </div>
 
 ###
