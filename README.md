@@ -1,9 +1,78 @@
-<!-- PREMIUM BANNER -->
+<!-- PREMIUM PORTFOLIO BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Rahul%20Rojasara&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Rahul%20Rojasara&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<!-- SOCIAL BADGES -->
+<h1 align="center">Frontend Developer • Problem Solver • Lifelong Learner 🚀</h1>
+
+---
+
+## 👨‍💻 About Me
+
+Hi 👋  
+I'm **Rahul**, a passionate developer focused on building clean, responsive, and user-friendly digital experiences.
+
+I enjoy turning ideas into real-world projects using modern technologies and continuously improving my skills.
+
+✔ Clean Code  
+✔ Minimal UI  
+✔ Performance-Focused Development
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,java,mysql" />
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Project Name
+Short one-line description of what this project does.  
+👉 **[View Project](https://github.com/codingwithrahul)**
+
+---
+
+### 🔹 Another Cool Project
+Brief description highlighting value or functionality.  
+👉 **[View Project](https://github.com/codingwithrahul)**
+
+---
+
+*(Add your real projects here — this section is GOLD for recruiters)*
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=codingwithrahul&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=codingwithrahul&theme=dark&hide_border=true&show_icons=true" />
+</div>
+
+---
+
+## 👾 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/codingwithrahul/codingwithrahul/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/codingwithrahul/codingwithrahul/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/codingwithrahul/codingwithrahul/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🌐 Connect With Me
+
 <div align="center">
   <a href="https://www.linkedin.com/in/rahulrojasara">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -24,41 +93,13 @@
 
 ---
 
-<!-- CLEAN CODING GIF -->
-<div align="center">
-  <img height="200" width="380" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
-</div>
-
-###
-
-<!-- TECH STACK -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,java,mysql" />
-</div>
-
----
-
-<!-- PACMAN GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/codingwithrahul/codingwithrahul/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/codingwithrahul/codingwithrahul/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-       src="https://raw.githubusercontent.com/codingwithrahul/codingwithrahul/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
 
-*Code. Learn. Build. Repeat.*
+> *Building. Learning. Improving. Every Day.*
 
 </div>
 
-###
-
-<!-- PREMIUM FOOTER -->
+<!-- CLEAN FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
 </div>
