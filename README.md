@@ -3,20 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Rahul%20Rojasara&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<!-- CLEAN CODING GIF -->
-<div align="center">
-  <img height="200" width="380" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
-</div>
-
-###
-
-<!-- TECH STACK -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,java,mysql" />
-</div>
-
-###
-
 <!-- SOCIAL BADGES -->
 <div align="center">
   <a href="https://www.linkedin.com/in/rahulrojasara">
@@ -34,6 +20,20 @@
   <a href="https://www.instagram.com/rahul.rojasara9">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
+</div>
+
+###
+
+<!-- CLEAN CODING GIF -->
+<div align="center">
+  <img height="200" width="380" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+</div>
+
+###
+
+<!-- TECH STACK -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,java,mysql" />
 </div>
 
 ###
