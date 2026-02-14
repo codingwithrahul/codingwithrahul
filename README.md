@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Rahul%20Rojasara&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
+<!-- SOCIAL BADGES -->
 <div align="center">
   <a href="https://www.linkedin.com/in/rahulrojasara">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -23,14 +24,10 @@
 
 ---
 
-<br/>
-
 <!-- CLEAN CODING GIF -->
 <div align="center">
-  <img height="190" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+  <img height="200" width="380" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 </div>
-
-<br/>
 
 ###
 
@@ -40,8 +37,6 @@
 </div>
 
 ---
-
-<br/>
 
 <!-- PACMAN GRAPH -->
 <picture>
@@ -53,8 +48,6 @@
        src="https://raw.githubusercontent.com/codingwithrahul/codingwithrahul/output/pacman-contribution-graph.svg">
 </picture>
 
-<br/>
-
 ###
 
 <div align="center">
@@ -63,7 +56,7 @@
 
 </div>
 
-<br/>
+###
 
 <!-- PREMIUM FOOTER -->
 <div align="center">
