@@ -3,10 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Rahul%20Rojasara&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<h1 align="center">Hey 👋 I'm Rahul</h1>
+---
 
+<!-- CLEAN CODING GIF -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Problem+Solver;Building+Clean+Experiences+🚀" />
+  <img height="200" width="380" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 </div>
 
 ---
@@ -39,27 +40,6 @@
 
 ---
 
-<!-- CLEAN CODING GIF -->
-<div align="center">
-  <img height="200" width="380" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
-</div>
-
----
-
-<!-- STREAK STATS -->
-<div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=codingwithrahul&theme=dark&hide_border=true" />
-</div>
-
----
-
-<!-- GITHUB STATS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codingwithrahul&theme=dark&hide_border=true&include_all_commits=true" height="150" />
-</div>
-
----
-
 <!-- PACMAN GRAPH -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -74,7 +54,7 @@
 
 <div align="center">
 
-> *Code. Learn. Build. Repeat.*
+*Code. Learn. Build. Repeat.*
 
 </div>
 
