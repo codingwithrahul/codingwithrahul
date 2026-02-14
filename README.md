@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Rahul%20Rojasara&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-###
-
 <!-- CLEAN CODING GIF -->
 <div align="center">
   <img height="200" width="380" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
