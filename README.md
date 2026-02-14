@@ -23,23 +23,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rahulrojasara" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://github.com/codingwithrahul" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://x.com/rahulhrojasara" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&color=000000&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.instagram.com/rahul.rojasara9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img height="200" width="350" src="https://media.tenor.com/uttTEf-cTnIAAAAj/uchiha-itachi.gif" />
 </div>
 
