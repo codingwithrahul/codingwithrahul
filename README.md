@@ -60,7 +60,8 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Problem+Solver;Always+Learning+New+Things+🚀" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=codingwithrahul&theme=dark" />
 </div>
+
 
 > *Code. Learn. Build. Repeat.*
