@@ -22,7 +22,7 @@
   </a>
 </div>
 
-###
+---
 
 <!-- CLEAN CODING GIF -->
 <div align="center">
@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,java,mysql" />
 </div>
 
-###
+---
 
 <!-- PACMAN GRAPH -->
 <picture>
