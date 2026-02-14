@@ -38,16 +38,6 @@
 
 ---
 
-<!-- PACMAN GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/codingwithrahul/codingwithrahul/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/codingwithrahul/codingwithrahul/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-       src="https://raw.githubusercontent.com/codingwithrahul/codingwithrahul/output/pacman-contribution-graph.svg">
-</picture>
-
 <!-- SNAKE GRAPH -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -65,8 +55,6 @@
 *Code. Learn. Build. Repeat.*
 
 </div>
-
-###
 
 <!-- PREMIUM FOOTER -->
 <div align="center">
